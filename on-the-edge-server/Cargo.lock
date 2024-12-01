@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "on-the-edge-serve"
+name = "on-the-edge-server"
 version = "0.1.0"
